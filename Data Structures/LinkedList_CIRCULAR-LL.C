@@ -92,7 +92,7 @@ void traverse()
 		ptr = start;
 		i = 1;
 
-		//..............(WHICH IS BETTER, ALSO WHATS'S THE ERROR IN CODE!)...................
+		//..............(WHICH ONE IS BETTER!)...................
 
 		while (ptr != start)				   //vs.// while(ptr->link != NULL)
 		{									   // {
